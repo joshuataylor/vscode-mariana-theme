@@ -1,0 +1,71 @@
+{
+	"name": "mariana-by-ryan",
+	"version": "0.2.12",
+	"displayName": "Mariana by Ryan",
+	"description": "Port of the default Sublime Text 4 theme",
+	"publisher": "ryanolsonx",
+	"repository": "https://github.com/ryanolsonx/vscode-mariana-theme",
+	"license": "MIT",
+	"icon": "icon.png",
+	"keywords": [
+		"sublime text",
+		"dark",
+		"light"
+	],
+	"engines": {
+		"vscode": "^1.20.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Mariana",
+				"uiTheme": "vs-dark",
+				"path": "./themes/mariana-theme.json"
+			},
+			{
+				"label": "Chandian",
+				"uiTheme": "vs-dark",
+				"path": "./themes/chandian-theme.json"
+			},
+			{
+				"label": "Gerrand",
+				"uiTheme": "vs-dark",
+				"path": "./themes/gerrand-theme.json"
+			},
+			{
+				"label": "Darcula",
+				"uiTheme": "vs-dark",
+				"path": "./themes/darcula-theme.json"
+			},
+			{
+				"label": "Quiet Light+",
+				"uiTheme": "vs",
+				"path": "./themes/quiet-theme.json"
+			},
+			{
+				"label": "Kanagawa",
+				"uiTheme": "vs-dark",
+				"path": "./themes/kanagawa-theme.json"
+			},
+			{
+				"label": "Solarized Dark+",
+				"uiTheme": "vs-dark",
+				"path": "./themes/solarized-dark-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "ecf08aa3-0459-4626-ab05-f7d4c2c033c8",
+		"publisherId": "d4b4d2bb-55a5-4fbd-b44b-46713208148e",
+		"publisherDisplayName": "Ryan Olson",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1704012139183,
+		"pinned": false,
+		"preRelease": false
+	}
+}
